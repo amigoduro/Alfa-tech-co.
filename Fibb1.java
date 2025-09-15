@@ -2,6 +2,7 @@
 import java.math.BigInteger;
 import java.util.Scanner;
 
+
 public class Fibb1 {
     // returns Fibonacci(n) (0-indexed: F(0)=0, F(1)=1)
     public static BigInteger fib(int n) {

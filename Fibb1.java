@@ -12,7 +12,8 @@ public class Fibb1 {
 
         BigInteger a = BigInteger.ZERO; // F(0)
         BigInteger b = BigInteger.ONE;  // F(1)
-        for (int i = 2; i <= n; i++) {
+        for (int i = 2; i <= n; i++) {            
+                                                // what if we use i=2;i<=n;i=i+1
             BigInteger next = a.add(b);
             a = b;
             b = next;

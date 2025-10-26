@@ -19,6 +19,7 @@ public class PalindromeCheck {
 
         // Check palindrome
         if (normalized.equals(reversed)) {
+          
             System.out.println("\"" + input + "\" is a Palindrome ");
         } else {
             System.out.println("\"" + input + "\" is NOT a Palindrome ");

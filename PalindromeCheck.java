@@ -9,6 +9,7 @@ public class PalindromeCheck {
 
         // Input from user
         System.out.print("Enter a string or number: ");
+      
         String input = sc.nextLine();
 
         // Normalize input (optional: remove spaces and lowercase for words)

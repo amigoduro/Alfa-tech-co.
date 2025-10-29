@@ -13,6 +13,7 @@ public class PalindromeCheck {
         String input = sc.nextLine();
 
         // Normalize input (optional: remove spaces and lowercase for words)
+      
         String normalized = input.replaceAll("\\s+", "").toLowerCase();
 
         // Reverse the string

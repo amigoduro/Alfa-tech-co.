@@ -22,7 +22,9 @@ public class PalindromeCheck {
         if (normalized.equals(reversed)) {
           
             System.out.println("\"" + input + "\" is a Palindrome ");
-        } else {
+          
+        } else
+          {
             System.out.println("\"" + input + "\" is NOT a Palindrome ");
         }
     }

@@ -25,7 +25,9 @@ public class PalindromeCheck {
           
         } else
           {
+           
             System.out.println("\"" + input + "\" is NOT a Palindrome ");
+            
         }
     }
 }

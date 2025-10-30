@@ -1,20 +1,25 @@
 class alfa
 {
+	
 	int a,b;
 	void addition(int x,int y)
+	
 	{
 		a=x;
 		b=y;
 	}
 	int sum()
 	{
+	
 		return(a+b);
+	
 	}
 }
 
 class bita extends alfa
 {
 	int c,d,e;
+	
 	void subtract(int x)
 	{
 		c=x;

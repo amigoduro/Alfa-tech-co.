@@ -5,8 +5,8 @@ class alfa
 	void addition(int x,int y)
 	
 	{
-		a=x;
-		b=y;
+		a=x;  	// assining the varible	
+		b=y;	//
 	}
 	int sum()
 	{

@@ -18,6 +18,7 @@ class alfa
 
 class bita extends alfa
 {
+	
 	int c,d,e;
 	
 	void subtract(int x)

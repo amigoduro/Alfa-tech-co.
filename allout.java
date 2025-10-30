@@ -34,6 +34,7 @@ class bita extends alfa
 
 class charli extends bita
 {
+	
 	int f,g,k;
 	void multiply(int x)
 	{

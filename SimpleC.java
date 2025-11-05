@@ -19,7 +19,7 @@ public class SimpleC {
         boolean valid = true;
 
         switch (operator) {
-            case '+':
+            case '+':  // switch logic
                 result = num1 + num2;
                 break;
 

@@ -6,6 +6,7 @@ import java.util.Scanner;
 
 public class Fibb2 {
     private static Map<Integer, BigInteger> memo = new HashMap<>();
+    
 
     static {
         memo.put(0, BigInteger.ZERO);

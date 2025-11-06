@@ -13,7 +13,8 @@ public class Fibb2 {
         memo.put(1, BigInteger.ONE);
     }
 
-    public static BigInteger fib(int n) {
+    public static BigInteger fib(int n)
+    {
         if (n < 0) throw new IllegalArgumentException("n must be >= 0");
         if (memo.containsKey(n)) return memo.get(n);
         BigInteger result = fib(n - 1).add(fib(n - 2));

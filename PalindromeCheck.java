@@ -26,6 +26,7 @@ public class PalindromeCheck {
             System.out.println("\"" + input + "\" is a Palindrome ");
           
         } else
+          
           {
            
             System.out.println("\"" + input + "\" is NOT a Palindrome ");

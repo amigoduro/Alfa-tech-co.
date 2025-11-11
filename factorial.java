@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class FactorialOfThreeNumbers {
     
     // Method to calculate factorial
+    
     public static long factorial(int n) 
                                         {
         

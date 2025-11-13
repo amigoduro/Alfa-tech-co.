@@ -17,7 +17,7 @@ public class Fibb3 {
         BigInteger d = a.multiply(a).add(b.multiply(b));      // F(2k+1) = F(k)^2 + F(k+1)^2
 
         if ((n & 1) == 0)
-                        {   /// assignation and cross transfering of data fileds 
+   {   /// assignation and cross transfering of data fileds 
             return new BigInteger[]{c, d};
                         } 
         else 

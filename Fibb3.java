@@ -19,7 +19,7 @@ public class Fibb3 {
         if ((n & 1) == 0)
                         {   /// assignation and cross transfering of data fileds 
             return new BigInteger[]{c, d};
-        } else {
+                        } else {
             return new BigInteger[]{d, c.add(d)};
         }
     }

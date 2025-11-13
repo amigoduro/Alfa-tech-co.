@@ -7,6 +7,7 @@ public class Fibb3 {
     private static BigInteger[] fibPair(long n)
     
                                                 {
+                                                    
         if (n == 0) return new BigInteger[]{BigInteger.ZERO, BigInteger.ONE};
         BigInteger[] half = fibPair(n >> 1);
         BigInteger a = half[0]; // F(k)

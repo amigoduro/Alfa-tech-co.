@@ -1,6 +1,6 @@
 // FibonacciFastDoubling.java
-import java.math.BigInteger;
-import java.util.Scanner;                //
+import java.math.BigInteger;               // use for 8 byte or more than it
+import java.util.Scanner;                // 
 
 public class Fibb3 {
     // returns {F(n), F(n+1)}

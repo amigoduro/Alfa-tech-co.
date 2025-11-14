@@ -17,7 +17,7 @@ public class SimpleC {
         System.out.println("Choose an operation: +  -  *  /");
         char operator = sc.next().charAt(0);
 
-        double result = 0;
+        double result = 0;                        // for identification
         boolean valid = true;
 
         switch (operator) {

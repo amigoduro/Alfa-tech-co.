@@ -5,7 +5,9 @@ import java.util.Scanner;                //common header file
 
 public class Fibb1 {
     // returns Fibonacci(n) (0-indexed: F(0)=0, F(1)=1)
-    public static BigInteger fib(int n) {
+    public static BigInteger fib(int n)
+                                        {
+        
         if (n < 0) throw new IllegalArgumentException("n must be >= 0");        // variable assignation 
         if (n == 0) return BigInteger.ZERO;                                        //  using condition for false  statement proving 
         if (n == 1) return BigInteger.ONE;

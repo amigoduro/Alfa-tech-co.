@@ -24,7 +24,7 @@ public class Fibb1 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter N (print first N Fibonacci numbers): ");
+        System.out.print("Enter N (print first N Fibonacci numbers): ");                //  this will be an output for the gui
         int N = sc.nextInt();
         
         if (N <= 0) {

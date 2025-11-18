@@ -2,7 +2,7 @@ class alfa																			// class one
 {
 	
 	int a,b;
-	void addition(int x,int y)
+	void addition(int x,int y)														// returning parameters
 	
 	{
 		a=x;  	// assining the varible	

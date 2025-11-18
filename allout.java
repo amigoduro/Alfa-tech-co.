@@ -1,4 +1,4 @@
-class alfa
+class alfa																			// class one
 {
 	
 	int a,b;
@@ -16,7 +16,7 @@ class alfa
 	}
 }
 
-class bita extends alfa
+class bita extends alfa																// class two		
 {
 	
 	int c,d,e;
@@ -32,7 +32,7 @@ class bita extends alfa
 	}
 }
 
-class charli extends bita
+class charli extends bita																	// class three
 {
 	
 	int f,g,k;
@@ -47,7 +47,7 @@ class charli extends bita
 	}
 }
 
-class delta extends charli
+class delta extends charli																	// class four
 {
 	
 	int l,m,n;
@@ -61,7 +61,7 @@ class delta extends charli
 		return(multi()/l);
 	}
 }
-class allout
+class allout																					// main  class
 {
 	
 	public static void main (String args[])

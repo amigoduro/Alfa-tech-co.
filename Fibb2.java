@@ -1,5 +1,5 @@
 // FibonacciMemo.java
-import java.math.BigInteger;
+import java.math.BigInteger;                                        // for long integer
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;

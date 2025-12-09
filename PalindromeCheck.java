@@ -3,7 +3,8 @@ import java.util.Scanner;
 
                 // also we can use the math.h file for the easy connections
 
-public class PalindromeCheck {
+public class PalindromeCheck
+                            {
     public static void main(String[] args) {
       
         Scanner sc = new Scanner(System.in);

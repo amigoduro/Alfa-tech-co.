@@ -1,5 +1,5 @@
 // PalindromeCheck.java
-import java.util.Scanner;
+import java.util.Scanner;     
 
                    // also we can use the math.h file for the easy connections
 

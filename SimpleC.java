@@ -6,6 +6,7 @@ public class SimpleC {
     {
         
         Scanner sc = new Scanner(System.in);
+        
 
         // Input numbers
         System.out.print("Enter first number: ");

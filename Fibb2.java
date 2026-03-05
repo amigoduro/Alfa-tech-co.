@@ -7,7 +7,7 @@ import java.util.Scanner;                                            // for user
 
 public class Fibb2 
                     {
-    private static Map<Integer, BigInteger> memo = new HashMap<>();
+    private static Map<Integer, BigInteger> memo = new HashMap<>();      ///usi  hashmap
     
 
     static {

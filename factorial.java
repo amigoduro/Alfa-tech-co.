@@ -4,7 +4,7 @@ public class FactorialOfThreeNumbers {
     
     // Method to calculate factorial
     
-    public static long factorial(int n) 
+    public static long factorial(int n)    
                                         {
         
         long fact = 1;

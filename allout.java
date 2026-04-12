@@ -61,8 +61,7 @@ class delta extends charli																	// class four
 class allout																					// main  class
 {
 	public static void main (String args[])
-	{
-		
+	{	
 		delta i = new delta();
 		i.addition(10,10);
 		i.subtract(5);

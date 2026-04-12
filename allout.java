@@ -13,7 +13,6 @@ class alfa																			// class one
 	
 	}
 }
-
 class bita extends alfa																// class two		
 {
 	

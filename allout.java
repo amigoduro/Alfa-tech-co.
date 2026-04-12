@@ -61,7 +61,6 @@ class delta extends charli																	// class four
 }
 class allout																					// main  class
 {
-	
 	public static void main (String args[])
 	{
 		

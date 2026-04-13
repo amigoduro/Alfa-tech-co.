@@ -18,8 +18,7 @@ public class PalindromeCheck
       
         String normalized = input.replaceAll("\\s+", "").toLowerCase();
 
-      
-        // Reverse the string
+              // Reverse the string
         String reversed = new StringBuilder(normalized).reverse().toString();
 
         // Check palindrome

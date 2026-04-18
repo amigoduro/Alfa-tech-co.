@@ -4,7 +4,7 @@ import java.util.Scanner;
                   //      consins it together
 public class PalindromeCheck    
                             {   
-    public static void main(String[] args)
+    public static void main(String[] args)   
                               {
         Scanner sc = new Scanner(System.in);
         // Input from user

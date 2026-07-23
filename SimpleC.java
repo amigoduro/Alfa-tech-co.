@@ -1,6 +1,7 @@
 import java.util.Scanner;
    
-public class SimpleC {
+public class SimpleC
+   {
     
     public static void main(String[] args)
     {

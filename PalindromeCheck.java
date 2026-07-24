@@ -8,7 +8,7 @@ public class PalindromeCheck
                               {      
         Scanner sc = new Scanner(System.in);   
         // Input from user
-        System.out.print("Enter a string or number: ");
+        System.out.print("Enter a string or number: ");    
       
         String input = sc.nextLine();
  

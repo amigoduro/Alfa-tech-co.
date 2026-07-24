@@ -1,7 +1,7 @@
 // PalindromeCheck.java
 import java.util.Scanner;     
                    // also we can use the math.h file for the easy connections     
-                  //      consins it together      
+                  //      consins it together          
 public class PalindromeCheck    
                             {   
     public static void main(String[] args)         

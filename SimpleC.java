@@ -7,8 +7,6 @@ public class SimpleC
     {
           
         Scanner sc = new Scanner(System.in);
-        
-
         // Input numbers
         System.out.print("Enter first number: ");
         double num1 = sc.nextDouble();   

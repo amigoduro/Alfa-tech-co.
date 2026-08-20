@@ -11,7 +11,7 @@ public class SimpleC
 
         // Input numbers
         System.out.print("Enter first number: ");
-        double num1 = sc.nextDouble();
+        double num1 = sc.nextDouble();   
 
         System.out.print("Enter second number: ");
         double num2 = sc.nextDouble();
